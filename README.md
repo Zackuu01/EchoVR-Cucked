@@ -1,9 +1,12 @@
 # EchoVR-SpectatePunch
 Punch players in spectator on Echo VR
 
-Download exe and run it before|after launch echo
-Join Spectator of any match
-Toggle "Punch as Spectator"
+1) Download exe and run it before|after launch echo
+
+2) Join Spectator of any match
+
+3) Toggle "Punch as Spectator"
+
 Enjoy
 
 
