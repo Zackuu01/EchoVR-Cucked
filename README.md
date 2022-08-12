@@ -1,6 +1,6 @@
 # EchoVR-Cucked Edition
 
-Punch players in spectator
+Punch players as a spectator
 
 ![image](https://user-images.githubusercontent.com/111094902/184279766-a600ec2a-7ce1-48bc-877f-fdf7f22c0407.png)
 
